@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172820939411",
+    "project_id": "appchat-3bfe3",
+    "storage_bucket": "appchat-3bfe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172820939411:android:e48886dee56acc24864366",
+        "android_client_info": {
+          "package_name": "com.lhstech.appChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172820939411-95tn56u0p6s5tnoedc9o5fc95mdkqj3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHgX-W60d8BD_oH0vxDa918v6-zssNgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172820939411-95tn56u0p6s5tnoedc9o5fc95mdkqj3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
